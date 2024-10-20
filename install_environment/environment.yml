@@ -14,3 +14,5 @@ dependencies:
   - jupyter=1.0.0
   - notebook=6.0.3
   - numba=0.53.1
+  - networkx=1.11
+  - seaborn=0.13.2
